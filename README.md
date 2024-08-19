@@ -60,11 +60,3 @@ Erro: O primeiro parâmetro não pode ser maior que o segundo.
 ## Contribuições
 
 Se desejar contribuir com melhorias ou correções, fique à vontade para abrir uma pull request ou enviar um problema para revisão.
-
-## Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
-
----
-
-Adapte o README conforme necessário para corresponder exatamente às suas necessidades e ao contexto do projeto.
